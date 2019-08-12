@@ -1,0 +1,8 @@
+{
+    "breakfastMenu": 
+      [
+          {"name": "fries","price": "12","calories": "323"},
+          {"name": "poutine","price": "17","calories": "324"},
+          {"name": "biscuits","price": "10","calories": "325"}
+    ]
+  }
